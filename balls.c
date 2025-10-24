@@ -4,6 +4,7 @@
 int higuys(int x, int y){
 	printf("%d",(x+y));
 	return 0;
+}
 
 int main(void){
 	printf("balls");
