@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//silly b oys
 
 int higuys(int x, int y){
 	printf("%d",(x+y));
