@@ -1,4 +1,4 @@
 int main(void){
-	printf("holy gaucamole");
-	return 0;
+	printf("holy mind your business you and stop complaining buddy");
+	return 67;
 }
