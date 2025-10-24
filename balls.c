@@ -8,6 +8,7 @@ int higuys(int x, int y){
 
 int main(void){
 	printf("balls");
+	printf("hi ethan, hi owen");
 	printf("hi guys how is everyone, i lobe living...");
 	higuys(1,1);
 	return 0;
